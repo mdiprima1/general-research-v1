@@ -1,0 +1,122 @@
+[
+  {
+    "id": "H0000",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        5
+      ]
+    ],
+    "hold": 1
+  },
+  {
+    "id": "H0001",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        5
+      ]
+    ],
+    "hold": 2
+  },
+  {
+    "id": "H0002",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        5
+      ]
+    ],
+    "hold": 3
+  },
+  {
+    "id": "H0003",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        10
+      ]
+    ],
+    "hold": 1
+  },
+  {
+    "id": "H0004",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        10
+      ]
+    ],
+    "hold": 2
+  },
+  {
+    "id": "H0005",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        10
+      ]
+    ],
+    "hold": 3
+  },
+  {
+    "id": "H0006",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        15
+      ]
+    ],
+    "hold": 1
+  },
+  {
+    "id": "H0007",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        15
+      ]
+    ],
+    "hold": 2
+  },
+  {
+    "id": "H0008",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        15
+      ]
+    ],
+    "hold": 3
+  },
+  {
+    "id": "H0009",
+    "family": "A_single",
+    "rules": [
+      [
+        "rsi_2",
+        "<",
+        20
+      ]
+    ],
+    "hold": 1
+  }
+]
