@@ -1,0 +1,123 @@
+{
+  "BASELINE": {
+    "Sharpe Ratio": "0.618",
+    "Compounding Annual Return": "22.064%",
+    "Drawdown": "31.900%",
+    "Total Orders": "2166"
+  },
+  "H2_confirm_3min": {
+    "Sharpe Ratio": "0.597",
+    "Compounding Annual Return": "21.799%",
+    "Drawdown": "33.800%",
+    "Total Orders": "2288"
+  },
+  "H2_confirm_5min": {
+    "Sharpe Ratio": "0.523",
+    "Compounding Annual Return": "18.938%",
+    "Drawdown": "41.300%",
+    "Total Orders": "2230"
+  },
+  "H2_confirm_10min": {
+    "Sharpe Ratio": "0.583",
+    "Compounding Annual Return": "20.484%",
+    "Drawdown": "32.400%",
+    "Total Orders": "2100"
+  },
+  "H2_confirm_15min": {
+    "Sharpe Ratio": "0.638",
+    "Compounding Annual Return": "21.409%",
+    "Drawdown": "26.900%",
+    "Total Orders": "1974"
+  },
+  "H4_RR_1.5": {
+    "Sharpe Ratio": "0.618",
+    "Compounding Annual Return": "22.064%",
+    "Drawdown": "31.900%",
+    "Total Orders": "2166",
+    "Win Rate": "54%",
+    "Net Profit": "393.372%"
+  },
+  "H4_RR_2.5": {
+    "Sharpe Ratio": "0.618",
+    "Compounding Annual Return": "22.064%",
+    "Drawdown": "31.900%",
+    "Total Orders": "2166",
+    "Win Rate": "54%",
+    "Net Profit": "393.372%"
+  },
+  "H4_RR_3.0": {
+    "Sharpe Ratio": "0.618",
+    "Compounding Annual Return": "22.064%",
+    "Drawdown": "31.900%",
+    "Total Orders": "2166",
+    "Win Rate": "54%",
+    "Net Profit": "393.372%"
+  },
+  "H5_long_only": {
+    "Sharpe Ratio": "0.14",
+    "Compounding Annual Return": "5.743%",
+    "Drawdown": "39.300%",
+    "Total Orders": "1094",
+    "Win Rate": "56%",
+    "Net Profit": "56.372%"
+  },
+  "H6_skip_mon_fri": {
+    "Sharpe Ratio": "0.25",
+    "Compounding Annual Return": "8.818%",
+    "Drawdown": "47.900%",
+    "Total Orders": "1636",
+    "Win Rate": "51%",
+    "Net Profit": "96.697%"
+  },
+  "H6_no_day_filter": {
+    "Sharpe Ratio": "0.604",
+    "Compounding Annual Return": "22.584%",
+    "Drawdown": "37.400%",
+    "Total Orders": "2658",
+    "Win Rate": "53%",
+    "Net Profit": "410.457%"
+  },
+  "H7_flatten_1430": {
+    "Sharpe Ratio": "0.691",
+    "Compounding Annual Return": "24.111%",
+    "Drawdown": "29.300%",
+    "Total Orders": "2046",
+    "Win Rate": "54%",
+    "Net Profit": "463.640%"
+  },
+  "H7_flatten_1500": {
+    "Sharpe Ratio": "0.629",
+    "Compounding Annual Return": "22.399%",
+    "Drawdown": "32.500%",
+    "Total Orders": "2106",
+    "Win Rate": "54%",
+    "Net Profit": "404.333%"
+  },
+  "H7_flatten_1515": {
+    "Sharpe Ratio": "0.623",
+    "Compounding Annual Return": "22.204%",
+    "Drawdown": "33.100%",
+    "Total Orders": "2122",
+    "Win Rate": "54%",
+    "Net Profit": "397.920%"
+  },
+  "H3_range_30min": {
+    "Sharpe Ratio": "0.414",
+    "Compounding Annual Return": "12.532%",
+    "Drawdown": "22.100%",
+    "Total Orders": "2072",
+    "Win Rate": "55%",
+    "Net Profit": "157.336%"
+  },
+  "H3_range_10min": {
+    "Sharpe Ratio": "0.365",
+    "Compounding Annual Return": "13.162%",
+    "Drawdown": "48.200%",
+    "Total Orders": "2060",
+    "Win Rate": "53%",
+    "Net Profit": "169.092%"
+  },
+  "COMBO_15min_flatten1515": {
+    "error": "HTTPSConnectionPool(host='www.quantconnect.com', port=443): Max retries exceeded with url: /api/v2/b"
+  }
+}
